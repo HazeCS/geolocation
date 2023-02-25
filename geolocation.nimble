@@ -1,4 +1,4 @@
-[Pacage]
+[Package]
 name = "geolocation"
 version = "1.0"
 author = "Haze"
