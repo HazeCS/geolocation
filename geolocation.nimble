@@ -2,7 +2,7 @@
 name = "geolocation"
 version = "1.0"
 author = "Haze"
-description = "Retreive geolocation details from an IP"
+description = "Retreive geolocation details from an IP address."
 license = "MIT"
 
 [Deps]
